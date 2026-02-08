@@ -1,36 +1,268 @@
-,sample ,,pdf
-,? is a simple ,,pdf file4 ,fun fun fun4
-,lorem ipsum dolor sit amet1 3sectetu} adipisc+ elit4 ,phasellus facilisis odio s$ mi4
-,curabitur suscipit4 ,nullam vel nisi4 ,etiam semp} ipsum ut lectus4 ,pro9 aliquam1 erat eget
-ph>etra -modo1 eros mi 3di;tum quam1 s$ -modo ju/o quam ut velit4
-,9teg} a erat4 ,cras laoreet ligula cursus 5im4 ,aen1n scel}isque velit et tellus4
-,ve/ibulum dictum aliquet sem4 ,nulla facilisi4 ,ve/ibulum a3umsan ante vitae elit4 ,nulla
-erat dolor1 bl&it in1 rutrum quis1 semp} pulv9>1 5im4 ,nullam v>ius 3gue risus4
-,vivamus sollicitud91 metus ut 9t}dum eleif5d1 nisi tellus pell5tesque elit1 tri/ique
-a3umsan eros quam et risus4 ,susp5disse lib}o odio1 mattis sit amet1 aliquet eget1
-h5dr}it vel1 nulla4 ,s$ vitae augue4 ,aliquam erat volutpat4 ,aliquam feugiat vulputate nisl4
-,susp5disse quis nulla pretium ante pretium mollis4 ,pro9 velit ligula1 sagittis at1 ege/as a1
-pulv9> quis1 nisl4
-,pell5tesque sit amet lectus4 ,praes5t pulv9>1 nunc quis iaculis sagittis1 ju/o quam
-lobortis tortor1 s$ ve/ibulum dui metus v55atis e/4 ,nunc cursus ligula4 ,nulla facilisi4
-,phasellus ullamcorp} 3sectetu} ante4 ,duis t9cidunt1 urna id 3di;tum luctus1 nibh
-ante vulputate sapi51 id sagittis massa orci ut 5im4 ,pell5tesque ve/ibulum 3vallis
-sem4 ,nulla 3sequat quam ut nisl4 ,nullam e/4 ,curabitur t9cidunt dapibus lorem4 ,pro9
-velit turpis1 scel}isque sit amet1 iaculis ;nec1 rhoncus ;ac1 ipsum4 ,phasellus lorem >cu1
-feugiat eu1 gravida eu1 3sequat mole/ie1 ipsum4 ,nullam vel e/ ut ipsum volutpat
-feugiat4 ,aen1n pell5tesque4
-,9 mauris4 ,pell5tesque dui nisi1 iaculis eu1 rhoncus in1 v55atis ;ac1 ante4 ,ut odio ju/o1
-scel}isque vel1 facilisis non1 -modo a1 p$e4 ,cras ;nec massa sit amet tortor volutpat
-v>ius4 ,d"oc lac9ia1 neque a luctus aliquet1 p$e massa imp}diet ante1 at v>ius lorem
-p$e s$ sapi54 ,fusce erat nibh1 aliquet in1 eleif5d eget1 -modo eget1 erat4 ,fusce
-3sectetu}4 ,cras risus tortor1 porttitor ;nec1 tri/ique s$1 3vallis semp}1 eros4 ,fusce
-vulputate ipsum a mauris4 ,phasellus mollis4 ,curabitur s$ urna4 ,aliquam ;nec sapi5 non
-nibh pulv9> 3vallis4 ,vivamus facilisis augue quis quam4 ,pro9 cursus aliquet metus4
-,susp5disse lac9ia4 ,nulla at tellus ;ac turpis eleif5d scel}isque4 ,maec5as a p$e vitae
-5im -modo 9t}dum4 ,d"oc odio4 ,s$ sollicitud9 dui vitae ju/o4
-,morbi elit nunc1 facilisis a1 mollis a1 mole/ie at1 lectus4 ,susp5disse eget mauris eu tellus
-mole/ie cursus4 ,duis ut magna at ju/o dignissim 3di;tum4 ,cum sociis natoque
-p5atibus et magnis dis "puri5t montes1 nascetur ridiculus mus4 ,vivamus v>ius4 ,ut sit
-amet diam suscipit mauris orn>e aliquam4 ,s$ v>ius4 ,duis >cu4 ,etiam tri/ique massa
-eget dui4 ,phasellus 3gue4 ,aen1n e/ erat1 t9cidunt eget1 v55atis quis1 -modo at1
-quam4
+,design & build
+a3essi# ,,pdf ta#s
+,sample ta#s
+,ta# #a
+,column h1d} 7,,th7 ,column h1d} 7,,th7 ,column h1d} 7,,th7
+,r{ h1d} 7,,th7 ,data cell 7;,,td7 ,data cell 7;,,td7
+,r{ h1d}7,,th7 ,data cell 7;,,td7 ,data cell 7;,,td7
+,ta# #b3 example ( footnotes ref};ed f )9 a ta#
+,exp5diture 0func;n # million #bjji/aj #bjaj/aa #a
+,policy func;ns ,f9ancial #bb.e #cj.eg
+,9=m,n #b #aj.b #ad.h
+,3t+5cy #b.f #a.b
+,remun}at$ func;ns ,ag5cy s}vices #c #dd.g #ce.ia
+,pay;ts #bb.da #ai.hh
+,bank+ #bb.ij #dd.bc
+,o!r #ab.fi #aj.cb
+7#a7 ,provi.nal total z ( public,n date4
+7#b7 ,co/s associat$ ) on-go+ 9=m,n programmes4
+7#c7 ,f ! manage;t a3.ts1 net ( recov}ies1 9clud+ 9t}e/ *>ges4
+,ta# #c3 8film cr$its0 /yle lay|t
+,ma9 "* ,daniel ,radcli6e
+,sidekick #a ,rup}t ,gr9t
+,sidekick #b ,emma ,watson
+,lova# ogre ,ro2ie ,coltrane
+,professor ,ma7ie ,smi?
+,h1dma/} ,ri*>d ,h>ris
+,ta# #d3 ta# #c ) column h1d}s a4$
+,role ,actor
+,ma9 "* ,daniel ,radcli6e
+,sidekick #a ,rup}t ,gr9t
+,sidekick #b ,emma ,watson
+,lova# ogre ,ro2ie ,coltrane
+,professor ,ma7ie ,smi?
+,h1dma/} ,ri*>d ,h>ris
+,ta# #e3 ye>-5d f9ancial /ate;t 7#, ?|s&s7
+#bjaj #bjji #bjjh
+,non-curr5t assets
+,prop}ty #cde #dde #bbb
+,9ve/;t #efg #fed #dbc
+,9tangi#s #dbc #abc #dec
+,curr5t assets
+,trade & o!r receiva#s #dce #fcd #bca
+,ca% & ca% equival5ts #ebd #abc #dhb
+,o!r #bbc #baa #bed
+,ta# #f3 a ta# )a m s}i|s h1d+s pro#m
+,ra9fall ,am}icas ,asia ,europe ,africa
+79*es7
+#bjaj
+,av}age #ajd #bja #aic #add
+#bd h|r hi< #ae #bf #bg #ah
+#ab h|r hi< #i #aj #aa #ab
+#bjji
+,av}age #acc #bdd #aee #aff
+#bd h|r hi< #bg #bh #bi #bj
+#ab h|r hi< #aa #ab #ac #af
+,ta# #g3 ye>-5d /ate;t1 non-curr5t assets 7#, ?|s&s7
+,non-curr5t assets #bjaj #bjji #bjjh
+,prop}ty #cde #dde #bbb
+,9ve/;t #efg #fed #dbc
+,9tangi#s #dbc #abc #dec
+,ta# #h3 ye>-5d /ate;t1 curr5t assets 7#, ?|s&s7
+,curr5t assets #bjaj #bjji #bjjh
+,trade & o!r receiva#s #dce #fcd #bca
+,ca% & ca% equival5ts #ebd #abc #dhb
+,o!r #bbc #baa #bed
+,ta# #i3 ra9fall 03t95t1 #bjji
+,ra9fall 79*es7 ,am}icas ,asia ,europe ,africa
+,av}age #acc #bdd #aee #aff
+#bd h|r hi< #bg #bh #bi #bj
+#ab h|r hi< #aa #ab #ac #af
+,ta# #aj3 self-3ta9$ ye>-5d /ate;t 7#, ?|s&s7 7multiple
+lay|t pro#ms7
+#bjaa #bjaj re/at$
+,g5}al 9come #bej1jjj #bjj1jjj
+,9cr1se 9 value1 ,,wip #ae1jjj #cj1jjj
+#bfe1jjj #bcj1jjj
+,adm9i/rative co/s
+,/aff co/s 7#bjj1jjj7 7#aej1jjj7
+,e>ly de"pures 7#aj1jjj7 7#bj1jjj7
+,o!r 7#be1jjj7 7#aj1jjj7
+,depreci,n 7#aj1jjj7 7#aj1jjj7
+,progr amme co/s
+,impair;t loss 7#aj1jjj7 7#e1jjj7
+,o!r 7#e1jjj7 7#e1jjj7
+7#bfj1jjj7 7#bjj1jjj7
+,surplus #e1jjj #cj1jjj
+,ta# #aa3 self-3ta9$ ye>-5d /ate;t 7#, ?|s&s7 7multiple
+pro#ms resolv$7
+#bjaa #bjaj re/at$
+,9come ,g5}al 9come #bej1jjj #bjj1jjj
+,9cr1se 9 value #ae1jjj #cj1jjj
+,total 9come #bfe1jjj #bcj1jjj
+,adm9i/rative co/s ,/aff co/s 7#bjj1jjj7 7#aej1jjj7
+,e>ly de"pures 7#aj1jjj7 7#bj1jjj7
+,o!r op}at+ co/s 7#be1jjj7 7#aj1jjj7
+,depreci,n 7#aj1jjj7 7#aj1jjj7
+,programme co/s ,impair;t loss 7#aj1jjj7 7#e1jjj7
+,o!r 7#e1jjj7 7#e1jjj7
+,total co/s 7#bfj1jjj7 7#bjj1jjj7
+,surplus #e1jjj #cj1jjj
+,ta# #ab3 m}g$ data cells >e n recomm5d$
+#bjjh #bjji
+,"n ,yes ,no ,yes ,no
+,bob #b #e #f #g
+,sue #c #h #d #g
+,sam
+,7data relat+ 6bo? columns 9 ,7data relat+ 6bo? columns 9
+a s+le cell spann+ bo?7' a s+le cell spann+ bo?7'
+,ta# #ac3 use ( graphic symbols
+,"q ,respond5t ,a ,respond5t ;,b ,respond5t ;,c
+,>e y a ,,uk citiz58
+'\xf0fd' '\xf0fc' '\xf0fd'
+,>e y curr5tly employ$8 '\xf0fc' '\xf0fd' '\xf0fc'
+,d y h a driv+ lic;e8 '\xf0fd' '\xf0fd' '\xf0fc'
+,ta# #ad3 symbols replac$ 0r1l text
+,"q ,respond5t ,a ,respond5t ;,b ,respond5t ;,c
+,>e y a ,,uk citiz58 ,no ,yes ,no
+,>e y curr5tly employ$8 ,yes ,no ,yes
+,d y h a driv+ lic;e8 ,no ,no ,yes
+,ta# #ae3 c|rses (f}$ 0,9/itu;n ,x4 ,a .k ,ba*elor ( ,sci;e1
+;,b .k ,ba*elor ( ,>ts1 ;,c .k ,ma/}s1 ;,d .k ,doctorate1 ;,e .k ,diploma
+#bjjf #bjjg #bjjh #bjji
+,economics ,a1 ;,b ,a1 ;,c ,a1 ;,b ,a1 ;,c
+,9t}n,nal rel,ns ,a1 ;,e ,a1 ;,e ,a1 ;,b ,a1 ;,e
+,philosophy ,a ,a ,a ,a1 ;,d
+,politics ,a1 ;,d ,a1 ;,d ,a1 ;,d ,a
+,ma!matics ;,b1 ;,c ;,b ,a1 ;,e ,a1 ;,b
+,5gli% ,a1 ;,c ,a1 ;,b ,a;,,b ;,c
+,ta# #af3 ,ma/}s c|rses (f}$ 0,9/itu;n ;,x
+#bjjf #bjjg #bjjh #bjji
+,economics ,no ,yes ,yes ,yes
+,9t}n,nal rel,ns ,no ,no ,no ,no
+,philosophy ,no ,no ,no ,no
+,politics ,no ,no ,no ,no
+,ma!matics ,yes ,no ,no ,no
+,5gli% ,yes ,yes ,yes ,yes
+,ta# #ag3 a3.ts1 #bjaa 7#, ?|s&s7
+,a3.t+ item #bjaa
+,9come ,g5}al 9come #bjj1jjj
+,9cr1se 9 value1 ,,wip #cj1jjj
+,9come subtotal #bcj1jjj
+,adm9i/rative co/s ,/aff #aej1jjj
+,e>ly de"pures #bj1jjj
+,o!r op}at+ co/s #aj1jjj
+,depreci,n #aj1jjj
+,programme co/s ,impair;t loss #aj1jjj
+,co/s subtotal #bjj1jjj
+,bal.e #cj1jjj
+,ta# #ah3 a3.ts1 #bjaa 7#, ?|s&s7
+,a3.t+ item #bjaa
+,9come ,g5}al 9come #bjj1jjj
+,9cr1se 9 value1 ,,wip #cj1jjj
+,9come subtotal #bcj1jjj
+,adm9i/rative co/s ,/aff 7#aej1jjj7
+,e>ly de"pures 7#bj1jjj7
+,o!r op}at+ co/s 7#aj1jjj7
+,depreci,n 7#aj1jjj7
+,programme co/s ,impair;t loss 7#aj1jjj7
+,co/s subtotal 7#bjj1jjj7
+,bal.e #cj1jjj
+,ta# #ai3 ,human ,develop;t ,9dex 7,,hdi7
+tr5ds1 #aihj 6#bjaj4 ,s|rce3 ,b>ro-,lee ,m>*1 #bjaj
+,c.try #aihj #aiij #bjjj #bjaj
+,af<ani/an #j.gh #a.dh #b.af #c.cc
+,albania #h.hi #i.fg #i.hi #aj.ch
+,alg}ia #d.gd #c.cc #e.ej #g.bd
+,&orra #d.ih #e.fc #i.ji #aj.ce
+,angola-- #d.db #d.db
+,ta# #bj3 footnotes ref};ed f )9 a ta#
+,exp5diture 0func;n #million #bjji/aj #bjaj/aaa
+,policy func;ns ,f9ancial #bb.e #cj.eg
+,9=mation#b #aj.b #ad.h
+,3t+5cy #b.f #a.b
+,remun}at$ func;ns ,ag5cy s}vices #c #dd.g #ce.ia
+,pay;ts #bb.da #ai.hh
+,bank+ #bb.ij #dd.bc
+,o!r #ab.fi #aj.cb
+7#a7 ,provi.nal total z ( public,n date4
+7#b7 ,co/s associat$ ) on-go+ 9=m,n programmes4
+7#c7 ,f ! manage;t a3.ts1 net ( recov}ies & 9clud+ 9t}e/ *>ges
+,ta# #ba3 footnotes replac$ 0a4i;nal ta# summ>y text
+,exp5diture 0func;n #million #bjji/aj #bjaj/aa
+,policy func;ns ,f9ancial #bb.e #cj.eg
+,9=m,n #aj.b #ad.h
+,3t+5cy #b.f #a.b
+,remun}at$ func;ns ,ag5cy s}vices #dd.g #ce.ia
+,pay;ts #bb.da #ai.hh
+,bank+ #bb.ij #dd.bc
+,o!r #ab.fi #aj.cb
+,ta# #bb3 ref}5c+ multiple 5dnotes f )9 a ta#
+,exp5diture #;m ,notes #bjaj #bjaa
+7,notes locat$ on page ,7;n7'7
+,9=m,n #a #aj.b #ad.h
+,3t+5cy #b.f #a.b
+,pay;ts #c #bb.da #ai.hh
+,bank+ s}vices #d #bb.ij #dd.bc
+,9t}e/ #j.bc #j.aj
+,divid5ds #bc #b.e #c.fh
+,o!r #i #ab.fi #aj.cb
+,ta# #bc3 simulat$ ta# cr1t$ us+ tabs & 3ta9+ no
+/ructure
+#bjjh #bjji
+,"n ,5t}$ ,-plet$ ,5t}$ ,-plet$
+,bob #bb #ba #bj #ai
+,sue #dd #ab #ab #aj
+,ta# #bd3 ye>-5d f9ancial /ate;t 7#, ?|s&s7
+#bjaj #bjji #bjjh
+,non-curr5t assets
+,build+s #cde #dde #bbb
+,9ve/;t #efg #fed #dbc
+,9tangi#s #dbc #abc #dec
+,curr5t assets
+,trade #dce #fcd #bca
+,ca% #ebd #abc #dhb
+,o!r #bbc #baa #bed
+,curr5t liabilities
+,trade liabilities #aed #abe #dba
+,f9ancial debt #bca #dgd #egb
+,provi.ns #aaa #cab #cdg
+,ta# #be3 sett+ column & r{ scope via ! tags panel
+#bjjh #bjji
+,"n ,5t}$ ,won ,5t}$ ,won
+,bob #bb #ba #bj #ai
+,sue #dd #ab #ab #aj
+,sam #af #d #de #cj
+,ta# #bf3 c|rses (f}$ 0,9/itu;n ,x4 ,a .k ,ba*elor ( ,sci;e1
+;,b .k ,ba*elor ( ,>ts1 ;,c .k ,ma/}s1 ;,d .k ,doctorate1 ;,e .k ,diploma
+#bjjf #bjjg #bjjh #bjji
+,economics ,a1 ;,b ,a1 ;,c ,a1 ;,c ,a1 ;,c
+,9t}n,nal rel,ns ,a1 ;,e ,a1 ;,e ,a1 ;,b ,a1 ;,b
+,philosophy ,a ,a ,a ,a
+,politics ,a1 ;,d ,a1 ;,d ,a1 ;,b ,a
+,ma!matics ;,b1 ;,c ;,b ,a1 ;,b ,a1 ;,b
+,5gli% ,a1 ;,c ,a1 ;,b ,a;,,b ,a1 ;,c
+,ta# #bg3 8ta#0 ) columns simulat$ 0us+ tab /ops
+,"n ,apples ,pe>s
+,bob ,scott #bj #be
+,susan4 ,p4 ,>nold-,j"os1 ,,ba1 ,,frsa1 ,,md #bd #ae
+,sam ,hold}-,dick9son #ad #aj
+,ta# #bh3 ye>-5d f9ancial ta# 7#, ?|s&s7--h1d+s pro#m
+revisit$
+#bjaj #bjji #bjjh
+,non-curr5t assets
+,build+s #cde #dde #bbb
+,9ve/;t #efg #fed #dbc
+,9tangi#s #dbc #abc #dec
+,curr5t assets
+,trade #dce #fcd #bca
+,ca% #ebd #abc #dhb
+,o!r #bbc #baa #bed
+,curr5t liabilities
+,trade liabilities #aed #abe #dba
+,f9ancial debt #bca #dgd #egb
+,provi.ns #aaa #cab #cdg
+,ta# #bi3 multiple h1d}s attributes = ea* data cell
+,s|? ,am}ica ,asia ,africa ,au/ralia
+#bjaj
+,hi<e/ av}age #ebc.f #dfg.d #dje.j #cdj.e
+,hi<e/ 9 #bd h|rs #gc.a #ed.a #bg.b #ff.c
+,hi<e/ 9 #ab h|rs #db.d #cj.a #ae.i #dj.c
+#bjji
+,hi<e/ av}age #dhg.g #dec.f #cih.g #cef
+,hi<e/ 9 #bd h|rs #fg.b #ec.b #dd.c #ec.h
+,hi<e/ 9 #ab h|rs #cd.g #cd.a #bi.h #ca.j
+#bjjh
+,hi<e/ av}age #dif.g #ddd.c #ejb.a #cii.f
+,hi<e/ 9 #bd h|rs #dd.b #ef.g #cb.a #fc.b
+,hi<e/ 9 #ab h|rs #cj.a #cb.g #ba.i #dj.b
